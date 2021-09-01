@@ -50,9 +50,9 @@
 }
 
 .snake{
-    background-color: purple;
+    background-color: black;
     border: .25vmin solid white;
-    border-radius: 12px;
+    border-radius: 50px;
 }
 
 .food{
